@@ -31,7 +31,7 @@ sha256
 * SourceForge.net
 sha256
 
-### Plasma RaspberryPi 4V
+### Plasma RaspberryPi 4B
 * Bittorrent
 * Mirrors
 * SourceForge.net
